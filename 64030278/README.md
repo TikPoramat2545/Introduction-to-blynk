@@ -1,4 +1,5 @@
 
+```
 // *** MAIN SETTINGS ***
 // Replace this block with correct template settings.
 // You can find it for every template here:
@@ -91,3 +92,4 @@ void loop() {
   timer.run();
   
 }
+```
